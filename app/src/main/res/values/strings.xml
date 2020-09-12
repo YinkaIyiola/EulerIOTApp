@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EulerHome</string>
+    <string name="speak">Speak Now</string>
+    <string name="off">OFF</string>
+</resources>
